@@ -1,5 +1,5 @@
 clc, clear;
-imgName = "images/balls.jpg";
+imgName = "images/lego1.png";
 
 % Read Image
 image = imread(imgName);
